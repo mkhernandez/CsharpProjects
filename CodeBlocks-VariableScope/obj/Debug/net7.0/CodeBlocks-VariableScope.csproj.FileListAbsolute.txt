@@ -1,0 +1,14 @@
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\bin\Debug\net7.0\CodeBlocks-VariableScope.exe
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\bin\Debug\net7.0\CodeBlocks-VariableScope.deps.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\bin\Debug\net7.0\CodeBlocks-VariableScope.runtimeconfig.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\bin\Debug\net7.0\CodeBlocks-VariableScope.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\bin\Debug\net7.0\CodeBlocks-VariableScope.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\CodeBlocks-VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\CodeBlocks-VariableScope.AssemblyInfoInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\CodeBlocks-VariableScope.AssemblyInfo.cs
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\CodeBlocks-VariableScope.csproj.CoreCompileInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\CodeBlocks-VariableScope.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\refint\CodeBlocks-VariableScope.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\CodeBlocks-VariableScope.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\CodeBlocks-VariableScope.genruntimeconfig.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeBlocks-VariableScope\obj\Debug\net7.0\ref\CodeBlocks-VariableScope.dll

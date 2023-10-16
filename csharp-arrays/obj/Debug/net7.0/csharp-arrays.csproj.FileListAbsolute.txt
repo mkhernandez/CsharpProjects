@@ -1,0 +1,14 @@
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\bin\Debug\net7.0\csharp-arrays.exe
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\bin\Debug\net7.0\csharp-arrays.deps.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\bin\Debug\net7.0\csharp-arrays.runtimeconfig.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\bin\Debug\net7.0\csharp-arrays.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\bin\Debug\net7.0\csharp-arrays.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\csharp-arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\csharp-arrays.AssemblyInfoInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\csharp-arrays.AssemblyInfo.cs
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\csharp-arrays.csproj.CoreCompileInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\csharp-arrays.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\refint\csharp-arrays.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\csharp-arrays.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\csharp-arrays.genruntimeconfig.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\csharp-arrays\obj\Debug\net7.0\ref\csharp-arrays.dll

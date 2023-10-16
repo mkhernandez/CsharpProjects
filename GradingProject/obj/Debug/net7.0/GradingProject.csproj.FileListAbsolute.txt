@@ -1,0 +1,14 @@
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\bin\Debug\net7.0\GradingProject.exe
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\bin\Debug\net7.0\GradingProject.deps.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\bin\Debug\net7.0\GradingProject.runtimeconfig.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\bin\Debug\net7.0\GradingProject.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\bin\Debug\net7.0\GradingProject.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\GradingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\GradingProject.AssemblyInfoInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\GradingProject.AssemblyInfo.cs
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\GradingProject.csproj.CoreCompileInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\GradingProject.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\refint\GradingProject.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\GradingProject.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\GradingProject.genruntimeconfig.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\GradingProject\obj\Debug\net7.0\ref\GradingProject.dll

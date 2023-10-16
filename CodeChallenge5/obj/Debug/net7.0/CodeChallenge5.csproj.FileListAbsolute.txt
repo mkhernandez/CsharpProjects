@@ -1,0 +1,14 @@
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\bin\Debug\net7.0\CodeChallenge5.exe
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\bin\Debug\net7.0\CodeChallenge5.deps.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\bin\Debug\net7.0\CodeChallenge5.runtimeconfig.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\bin\Debug\net7.0\CodeChallenge5.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\bin\Debug\net7.0\CodeChallenge5.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\CodeChallenge5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\CodeChallenge5.AssemblyInfoInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\CodeChallenge5.AssemblyInfo.cs
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\CodeChallenge5.csproj.CoreCompileInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\CodeChallenge5.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\refint\CodeChallenge5.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\CodeChallenge5.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\CodeChallenge5.genruntimeconfig.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodeChallenge5\obj\Debug\net7.0\ref\CodeChallenge5.dll
