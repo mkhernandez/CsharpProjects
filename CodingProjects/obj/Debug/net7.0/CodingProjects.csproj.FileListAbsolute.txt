@@ -1,0 +1,14 @@
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\bin\Debug\net7.0\CodingProjects.exe
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\bin\Debug\net7.0\CodingProjects.deps.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\bin\Debug\net7.0\CodingProjects.runtimeconfig.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\bin\Debug\net7.0\CodingProjects.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\bin\Debug\net7.0\CodingProjects.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\CodingProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\CodingProjects.AssemblyInfoInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\CodingProjects.AssemblyInfo.cs
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\CodingProjects.csproj.CoreCompileInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\CodingProjects.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\refint\CodingProjects.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\CodingProjects.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\CodingProjects.genruntimeconfig.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\CodingProjects\obj\Debug\net7.0\ref\CodingProjects.dll
