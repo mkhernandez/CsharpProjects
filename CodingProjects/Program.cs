@@ -55,6 +55,7 @@ Console.WriteLine($"You input value ({value}) has been accepted");
 // Prompt user for valid entry if not one of the roles
 // After loop use print output to user that their input was accepted
 
+/*
 string role = "";
 string? input;
 bool validRole = false;
@@ -80,3 +81,49 @@ while(!validRole) {
 }
 
 Console.WriteLine($"Your role: {role} has been accepted.");
+*/
+
+// Coding Project #3 - Process contents of string array
+// Need to traverse the string. When there is a period we want to extract that substring up to the period(exclusive)
+// 
+
+string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+int periodLocation;
+string newString = "";
+
+foreach(string mystring in myStrings) {
+
+    int index = 0;
+    int traverse = 0;
+    periodLocation = mystring.IndexOf(".");
+    traverse = periodLocation;
+
+    // If there is no period then we just return the string
+    if(periodLocation < 0) {
+        mystring.TrimStart();
+        Console.WriteLine(mystring);
+    }
+
+    // Otherwise we will traverse the string to break it up into smaller substrings and print to console
+    while(periodLocation > 0) {
+        // set up the new substring stripped of leading whitespace and trailing period
+        newString = mystring.Substring(index, traverse + 1);
+        newString = newString.Remove(traverse, 1);
+        newString = newString.TrimStart();
+        
+        // Write the string to console then set up new position of the next substring to retrieve
+        Console.WriteLine(newString);
+        index = periodLocation + 1;
+        periodLocation = mystring.IndexOf(".", index);
+        traverse = periodLocation - index;
+        newString = "";
+
+        // If there is no period then we will retrieve the rest of the string from the current position
+        if(periodLocation < 0) {
+            newString = mystring.Substring(index);
+            newString = newString.TrimStart();
+            Console.WriteLine(newString);
+        }
+    }
+
+}
