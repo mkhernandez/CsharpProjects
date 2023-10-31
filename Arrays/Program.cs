@@ -102,6 +102,7 @@ Console.WriteLine(pangram.Trim());
 */
 
 // Can also be done this way. Pangram has already been split into a string array
+/*
 string[] newMessage = new string[items.Length];
 
 for(int i = 0; i < items.Length; i++) {
@@ -112,5 +113,21 @@ for(int i = 0; i < items.Length; i++) {
 
 string result = string.Join(' ', newMessage);
 Console.WriteLine(result);
+*/
 
+// Coding Challenge #2 - Parse a string of orders, sort the orders, and tag possible errors
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+string[] orderIDs = orderStream.Split(',');
+Array.Sort(orderIDs);
+foreach(string orderID in orderIDs) {
+    if(orderID.Length == 4)
+    {
+        Console.WriteLine(orderID);
+    }
+    else 
+    {
+        Console.WriteLine($"{orderID}\t\t- error");
+    }
+    
+}
 
