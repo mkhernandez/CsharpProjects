@@ -1,0 +1,14 @@
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\bin\Debug\net7.0\stringFormattingBasics.exe
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\bin\Debug\net7.0\stringFormattingBasics.deps.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\bin\Debug\net7.0\stringFormattingBasics.runtimeconfig.json
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\bin\Debug\net7.0\stringFormattingBasics.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\bin\Debug\net7.0\stringFormattingBasics.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\stringFormattingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\stringFormattingBasics.AssemblyInfoInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\stringFormattingBasics.AssemblyInfo.cs
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\stringFormattingBasics.csproj.CoreCompileInputs.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\stringFormattingBasics.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\refint\stringFormattingBasics.dll
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\stringFormattingBasics.pdb
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\stringFormattingBasics.genruntimeconfig.cache
+C:\Users\herdi\OneDrive\Desktop\CsharpProjects\stringFormattingBasics\obj\Debug\net7.0\ref\stringFormattingBasics.dll
